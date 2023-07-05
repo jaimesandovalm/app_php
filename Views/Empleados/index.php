@@ -1,8 +1,8 @@
 <?php include("../../Layout/header.php"); ?>
-
+<br>
 <div class="card">
     <div class="card-header">
-        Empleados
+        <a name="" id="" class="btn btn-primary" href="create.php" role="button">Agregar Registro</a>
     </div>
     <div class="card-body">
         <div class="table-responsive-sm">
@@ -25,7 +25,11 @@
                         <td>resumen.pdf</td>
                         <td>Programador Sr.</td>
                         <td>04/07/2023</td>
-                        <td>Carta|Editar|Eliminar</td>
+                        <td>
+                            <a name="" id="" class="btn btn-info" href="#" role="button">Carta</a>
+                            |<a name="" id="" class="btn btn-warning" href="#" role="button">Editar</a>
+                            |<a name="" id="" class="btn btn-danger" href="#" role="button">Eliminar</a>
+                        </td>
                     </tr>
                 </tbody>
             </table>
