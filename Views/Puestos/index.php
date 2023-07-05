@@ -1,5 +1,5 @@
 <?php include("../../Layout/header.php"); ?>
-
+<br>
 <div class="card">
     <div class="card-header">
         <a name="bntcreate" id="bntcreate" class="btn btn-primary" href="create.php" role="button">Agregar Puesto</a>

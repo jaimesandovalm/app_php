@@ -1,5 +1,5 @@
 <?php include("../../Layout/header.php"); ?>
-
+<br>
 <div class="card">
     <div class="card-header">
         Puestos
